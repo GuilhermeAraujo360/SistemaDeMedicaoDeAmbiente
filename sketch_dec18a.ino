@@ -9,8 +9,8 @@
 #include "led.h"
 
 
-const char* ssid = "MOB-FATIMA";
-String senha = "mob283627";
+const char* ssid = "xxxxxx";
+String senha = "xxxxxx";
 
 // Porta do servidor, que usará uma conexão TPC
 const uint16_t porta  = 8080; 
