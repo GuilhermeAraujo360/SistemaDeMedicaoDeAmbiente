@@ -5,7 +5,7 @@
 
 import socket
 
-HOST = '192.168.100.28'
+HOST = 'xxx.xxx.xxx'
 PORT = 8080
 
 # função que capta byte a byte do servidor, que após isso é traduzida para a linguagem humana 
